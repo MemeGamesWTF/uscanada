@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1733921683,
+	"version": 1733923707,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -34,6 +34,12 @@
 		"media/tr_1.ogg",
 		"media/tr_2.m4a",
 		"media/tr_2.ogg",
+		"media/game over.m4a",
+		"media/game over.ogg",
+		"media/tap.m4a",
+		"media/tap.ogg",
+		"media/yayyy.m4a",
+		"media/yayyy.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
